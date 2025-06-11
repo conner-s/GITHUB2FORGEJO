@@ -63,7 +63,7 @@ Nope. This script is all or nothing. For selective migration, please use the For
 ```
 GPL-3.0
 
-Copyright (C) 2024-present PatNei
+Copyright (C) 2024-present
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
